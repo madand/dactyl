@@ -1,3 +1,8 @@
+This repo is unmaintained!
+==========================
+
+Please look at the new official repo here: [pentadactyl/pentadactyl](https://github.com/pentadactyl/pentadactyl).
+
 Pentadactyl for Pale Moon
 =========================
 
